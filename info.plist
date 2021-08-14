@@ -194,27 +194,29 @@ Thanks for using SShot :-)</string>
 		<key>76A41DA8-5D7E-4DA6-B7F2-3E719566F879</key>
 		<dict>
 			<key>xpos</key>
-			<integer>235</integer>
+			<integer>230</integer>
 			<key>ypos</key>
-			<integer>215</integer>
+			<integer>210</integer>
 		</dict>
 		<key>A17F56E9-B8A4-479B-A0C9-6AB5A80D80E6</key>
 		<dict>
 			<key>xpos</key>
 			<integer>60</integer>
 			<key>ypos</key>
-			<integer>140</integer>
+			<integer>135</integer>
 		</dict>
 		<key>A5C0FBFF-28A4-4A67-B82C-4ADF0521D8D6</key>
 		<dict>
 			<key>xpos</key>
-			<integer>235</integer>
+			<integer>230</integer>
 			<key>ypos</key>
 			<integer>60</integer>
 		</dict>
 	</dict>
+	<key>variablesdontexport</key>
+	<array/>
 	<key>version</key>
-	<string>1.0</string>
+	<string>1.0.0</string>
 	<key>webaddress</key>
 	<string>https://pawelgrzybek.com/</string>
 </dict>
