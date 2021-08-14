@@ -1,5 +1,5 @@
 # Alfred SShot
 
-Quicly change screenshot format.
+Alfred workflow to quicly change screenshot format.
 
 ![Alfred SShot screenshot](screenshot.png)
