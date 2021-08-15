@@ -3,7 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string>com.pawelgrzybek.sshot</string>
+	<string>com.alfredapp.alfred-sshot</string>
+	<key>category</key>
+	<string>Tools</string>
 	<key>connections</key>
 	<dict>
 		<key>A17F56E9-B8A4-479B-A0C9-6AB5A80D80E6</key>
@@ -186,9 +188,7 @@ EOB</string>
 		</dict>
 	</array>
 	<key>readme</key>
-	<string>Change a screenshot extension. Hot tip. To remove shadow around the screen shot simply hold on the option key when you capture the screen. To save screenshot to clipboard hold on the ctrl key when you capture the screen.
-
-Thanks for using SShot :-)</string>
+	<string></string>
 	<key>uidata</key>
 	<dict>
 		<key>76A41DA8-5D7E-4DA6-B7F2-3E719566F879</key>
